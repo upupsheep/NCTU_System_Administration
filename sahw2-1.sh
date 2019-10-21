@@ -1,0 +1,1 @@
+ls -ARl | egrep "^[-|d]" | sort -rn -k 5,5 | awk 'BEGIN{size_cnt=0; dir_cnt=0; regfile_cnt=0; total_file=0; line=1} /^-/ {size_cnt+=$5; total_file+=1;} /^-/ && line < 6 {print ++regfile_cnt ,":", $5, $9; line++; } /^d/{dir_cnt+=1} END{print "Dir num:", dir_cnt, "\nFile num:", total_file, "\nTotal:", size_cnt}'
