@@ -1,0 +1,130 @@
+1 1GH,4CD SA321 - Calculus (I)
+2 1GH,4CD SC206 - Calculus (I)
+3 1GH,4CD SA214 - Calculus (I)
+4 4CD SC207 - Calculus (I)
+5 1GH,4CD SA320 - Calculus (I)
+6 1GH,4CD SC106 - Calculus (I)
+7 1GH,4CD EE105 - Calculus (I)
+8 1CD,4GH SC110 - Physics(I)
+9 1CD,4GH SA321 - Physics(I)
+10 1CD,4GH SA320 - Physics (I)
+11 1CD,4GH SC105 - Physics (I)
+12 1CD,4GH SC109 - Physics (I)
+13 1CD,4GH SC151 - Physics (I)
+14 1CD,4GH SC152 - Physics (I)
+15 4GH SC001 - Physics (I)
+16 3GH AB101 - Career Planning and Mentor of Hours
+17 5IJK EC122 - Competitive Programming (II)
+18 6EFG ED302 - Competitive Programming(III)
+19 2EF,5B EC315 - LabVIEW Programming Language
+20 2CD,4G ED302 - Mathematical Logic\r
+21 2B,5EF EC115 - Digital Systems Design
+22 2A AB101 - Service Learning II
+23 1G,4CD EC114 - Electrical Circuits and Electronics (I)  
+24 2EFG EC016 - Design and Implementation of IOT Applications
+25 2G,5CD EC115 - Introduction to Cryptography
+26 2IJK,5CD EC220,EC114 - Digital Circuit Lab.
+27 2EF,5B EC022 - Introduction to Multimedia Information System
+28 2G,5CD ED302 - Introduction to Pattern Recognition
+29 2EF,5B ED117 - Introduction to Machine Learning
+30 4IJK EC115 - Network Planning and Management Practices
+31 2EFG EC324 - Android Progr
+32 1G,4CD ED117 - Intro. to Network Programming
+33 1CD,3B EDB27 - Introduction to Computer Graphics
+34 4IJK EC122 - Computer System Administration
+35 1EF,4B,4IJK EC115,EC315 - Introduction to Computers and Programming
+36 1EF,3IJK,4B EC122,EC315,EC122 - Introduction to Computers and Programming
+37 1EF,2IJK,4B EC114,EC315,EC114 - Introduction to Computers and Programming
+38 3CD,5G EC122 - Probability
+39 1B,4EF EC114 - Intro. to Computer Networks
+40 2CD,4G EC015 - Introduction to Algorithms
+41 1N,3N,5N EC316 - Basic Programming
+42 3CD,5G EDB27 - Intro. to Compiler Design
+43 3CD,5G EC114 - Linear Algebra
+44 3CD,5G EC115 - Linear Algebra
+45 6EF ED102 - Computer Science and Engineering Projects (I)
+46 2CD,4G EC115 - Introduction to Operating Systems
+47 1EF AB101 - Computer Science Seminars
+48 3IJK,5EF EC220,ED117 - Microprocessor System Lab.
+49 1IJK,5EF EC220,EDB27 - Microprocessor System Lab.
+50 3CD,5G EC022 - Probability 
+51 2CD,4G EC114 - Introduction to Algorithms
+52 2CD,4G EC122 - Introduction to Algorithms
+53 3GH EDB27 - Computer Science and Engineering Projects (II)
+54 2CD,4G EC016 - Introduction to Operating Systems
+55 2CD,4G ED117 - Introduction to Operating Systems
+56 1B,4EF EC015 - Intro. to Computer Networks
+57 1B,4EF EC122 - Intro. to Computer Networks
+58 1B,4EF EC115 - Intro. to Computer Networks
+59 3CD,5G ED117 - Intro. to Compiler Design
+60 3CD,5G EC015 - Linear Algebra
+61 1CD,3B EC122 - Differential Equations
+62 1CD,3B EC115 - Differential Equations
+63 1G,4CD EC122 - Formal Languages and Theory of Computation
+64 2CD,4G ED305 - Logic Design and Design for Security
+65 1EF,4B ED202 - Queuing Theory
+66 2G,5CD ED202 - Cloud Fog Computing and Big Data Analytics
+67 2EFG EC122 - Entrepreneurship Realization
+68 1EF A403 - The  Paradigms of Novels
+69 1EF A205 - Sociology
+70 1EF A102 - Introduction to Music Theory
+71 1EF A302 - Life Science
+72 2CD A302 - Introduction to Psychology
+73 2CD A301 - Contemporary World
+74 2CD A304 - Political Science
+75 2CD A102 - Introduction to Music
+76 2CD A305 - Taiwanese Literature
+77 2CD A303 - History Analysis
+78 2CD A306 - Introduction to Laws
+79 2CD A401 - Introduction to Philosophy
+80 4AB A401 - Selected Readings on Lu Xun
+81 1EF A306 - History's Turning Points
+82 1EF A103 - The Shift of Global Economy and Industries
+83 2CD A509 - Love and Marriage--from Ancient  to Modern
+84 2CD CSPC2 - Cognition and Presentation
+85 4AB A306 - The Rise and Fall of the Great Powers
+86 4EF A307 - Freshman English (I)
+87 4EF A204 - Freshman English (I)
+88 4EF A501 - Freshman English (I)
+89 4EF A508 - Freshman English (I)
+90 4EF A509 - Freshman English (I)
+91 3AB - Physical Education
+92 3AB - Physical Education
+93 3AB - Physical Education
+94 3AB - Physical Education
+95 2GH - Physical Education
+96 2GH - Physical Education
+97 2GH - Physical Education
+98 2GH - Physical Education
+99 2GH - Physical Education
+100 2GH - Physical Education
+101 2GH - Physical Education
+102 2GH - Physcial Education
+103 2GH - Physcial Education
+104 2EF - Physical Education
+105 2EF - Physical Education
+106 2EF - Physical Education
+107 2EF - Physical Education
+108 2EF - Physical Education
+109 2EF - Physical Education
+110 2EF - Physcial Education
+111 2EF - Physcial Education
+112 3GH AB101 - Career Planning and Mentor of Hours
+113 5IJK EC122 - Competitive Programming (II)
+114 6EFG ED302 - Competitive Programming(III)
+115 2EF,5B EC315 - LabVIEW Programming Language
+116 2CD,4G ED302 - Mathematical Logic\r
+117 2B,5EF EC115 - Digital Systems Design
+118 2A AB101 - Service Learning II
+119 1G,4CD EC114 - Electrical Circuits and Electronics (I)  
+120 2EFG EC016 - Design and Implementation of IOT Applications
+121 2G,5CD EC115 - Introduction to Cryptography
+122 2IJK,5CD EC220,EC114 - Digital Circuit Lab.
+123 2EF,5B EC022 - Introduction to Multimedia Information System
+124 2G,5CD ED302 - Introduction to Pattern Recognition
+125 2EF,5B ED117 - Introduction to Machine Learning
+126 4IJK EC115 - Network Planning and Management Practices
+127 2EFG EC324 - Android Progr
+128 1G,4CD ED117 - Intro. to Network Programming
+129 1CD,3B EDB27 - Introduction to Computer Graphics
+130 4IJK EC122 - Computer System Administration
